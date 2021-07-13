@@ -1,3 +1,3 @@
 Esto es una prueba de utilizar Git.
 
-Hoy se empezara desde sus inicios
+Hoy se empezara desde sus inicios, modificacion del archivo 
