@@ -1,3 +1,3 @@
-Esto es un archivo de prueba.
+Esto es un archivo de prueba
 
-versión npumero 2
+version 2
