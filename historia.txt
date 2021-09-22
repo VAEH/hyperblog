@@ -3,3 +3,5 @@ Esto es una prueba de utilizar Git.
 Hoy se empezara desde sus inicios, hablando de su vida y vida maestra. 
 
 Nos enfocaremos en su vida laboral
+
+revisando conexion
