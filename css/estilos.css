@@ -11,10 +11,10 @@ padding: 0;
 {
 width: 50%;
 padding: 1em;
-border-bottom: 3px solid #fafa;
+border-bottom: 3px solid rgba(170, 172, 255, 0.667);
 border-right: 10px solid #FFF233;
 border-left: 10px solid #33BEFF;
-border-top: 3px solid #FF8533;
+border-top: 3px solid #884b22;
 text-align: center;
 margin: 0 auto;
 
